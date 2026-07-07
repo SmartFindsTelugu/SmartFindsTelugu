@@ -37,7 +37,6 @@ function displayProducts(products) {
 
 <div class="card-content">
     <h3>${product.name}</h3>
-    <p>${product.price}</p>
 
     <a class="view-btn" href="${product.link}" target="_blank">
         Buy Now
