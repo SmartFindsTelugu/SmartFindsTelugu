@@ -27,5 +27,11 @@
     "name": "Logitech wireless mouse",
     "image": "images/logitechwirelessmouse.jpg",
     "link": "https://link.amazon/B09QdaiUu"
+  },
+
+  {
+    "name": "Digital weight machine",
+    "image": "images/digitalweightmachine.jpg",
+    "link": "https://link.amazon/B08PICSNe"
   }
 ]
