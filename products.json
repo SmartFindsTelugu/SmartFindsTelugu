@@ -33,5 +33,17 @@
     "name": "Digital weight machine",
     "image": "images/digitalweightmachine.jpg",
     "link": "https://link.amazon/B08PICSNe"
+  },
+
+  {
+    "name": "Laptop sleeve bag",
+    "image": "images/laptopsleevebag.jpg",
+    "link": "https://link.amazon/B097KBQ0t"
+  },
+
+  {
+    "name": "moca laptop sleeve bag",
+    "image": "images/mocalaptopsleevebag.jpg",
+    "link": "https://link.amazon/B08gL9rSJ"
   }
 ]
